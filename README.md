@@ -52,3 +52,5 @@ transaction:
   changeIndex: 1,
   fee: 50000 }
 successfull broadcast: 97b94d7633f459548d9275e6bad57a2ee16a07888f0315fea7d9752b0d03b514
+
+
