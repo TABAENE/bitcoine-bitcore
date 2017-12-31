@@ -1,3 +1,9 @@
+//haque@haque:~/projects/bitcoin_project$ node
+//> var bitcore = require('bitcore-lib');
+//undefined
+//> bitcore.PrivateKey('testnet').toWIF()
+//'cQhYXXNh5KQuJZBjkqS8kRWBSxUUrcGjoQtD2hXbTWKA2Q9riXEn'
+
 console.log('\n');
 //delete global._bitcore;
 var bitcore = require('bitcore-lib');
